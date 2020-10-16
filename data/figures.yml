@@ -1,90 +1,128 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "cover"
+    src: figures/cover.png
+    caption: ""
+    credit: ""
+  - id: "ACM_2014_00709"
+    src: figures/ACM_2014_00709.png
+    caption: "Pair of mounted jars. Jingdezhen, China (Qianlong period, 1736–1795) and France, 18th or 19th century | Asian Civilisations Museum, Singapore"
+    credit: ""
+  - id: "HKU.C.2009.1810"
+    src: figures/HKU.C.2009.1810.png
+    caption: "Bowl. China, Southern Song dynasty (1127–1279)"
+    credit: ""
+  - id: "HKU.C.1996.1076"
+    src: figures/HKU.C.1996.1076.png
+    caption: "Funerary jar. Longquan, China, Southern Song dynasty (1127–1279)"
+    credit: ""
+  - id: "HKU.C.1964.0552"
+    src: figures/HKU.C.1964.0552.png
+    caption: "Ewer. Korea, Goryeo dynasty (918–1392)"
+    credit: ""
+  - id: "ACM_2000_01239"
+    src: figures/ACM_2000_01239.png
+    caption: "Covered jar. Northern Vietnam, 14th century | Asian Civilisations Museum, Singapore"
+    credit: ""
+  - id: "HKU.C.1953.0028"
+    src: figures/HKU.C.1953.0028.png
+    caption: "Water pot. Gongyi, China, Tang dynasty (618–907), probably 9th century"
+    credit: ""
 
+  - id: "ACM_2011_00612"
+    src: figures/ACM_2011_00612.png
+    caption: "Dish. Gongyi, China, Tang dynasty (618–907), ca. 830s"
+    credit: " | Asian Civilisations Museum, Singapore"
+
+  - id: "HKU.C.1978.0632"
+    src: figures/HKU.C.1978.0632.png
+    caption: "Bottle. China, Yuan dynasty (1271–1368), 14th century"
+    credit: ""
+
+  - id: "HKMM_2014_0010_0001"
+    src: figures/HKMM_2014_0010_0001.png
+    caption: "*Kraak* plate. Jingdezhen, China, Ming dynasty (Chongzhen period, 1628–1644)"
+    credit: " | Hong Kong Maritime Museum"
+  - id: "HKU.C.1978.0659"
+    src: figures/HKU.C.1978.0659.png
+    caption: "Bowl. Jingdezhen, China, Ming dynasty (1368–1644), late 15th or early 16th century"
+    credit: ""
+
+  - id: "HKU.C.1953.0014"
+    src: figures/HKU.C.1953.0014.png
+    caption: "Guanyin figure. Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
+    credit: ""
+  - id: "HKU.C.1964.0275"
+    src: figures/HKU.C.1964.0275.png
+    caption: "Brush washer. Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
+    credit: ""
+
+  - id: "ACM_2010_00362"
+    src: figures/ACM_2010_00362.png
+    caption: "Figural pair. Dehua, China, Qing dynasty (1644–1911), 18th century"
+    credit: " | Asian Civilisations Museum, Singapore"
+  - id: "ACM_2011_02085"
+    src: figures/ACM_2011_02085.png
+    caption: "Virgin and Child. Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
+    credit: " | Asian Civilisations Museum, Singapore"
+  - id: "ACM_2007_55790"
+    src: figures/ACM_2007_55790.png
+    caption: "Tea bowl. Meissen, Germany, ca. 1735"
+    credit: " | Asian Civilisations Museum, Singapore"
+
+  - id: "HKU.C.1964.0274"
+    src: figures/HKU.C.1964.0274.png
+    caption: "Bowl. Jingdezhen, China, Ming dynasty (Wanli period, 1573–1620)"
+    credit: ""
+  - id: "HKU.C.1972.0432"
+    src: figures/HKU.C.1972.0432.png
+    caption: "Bowl. China, Qing dynasty (1644–1911), late 17th or early 18th century"
+    credit: ""
+
+  - id: "HKU.C.1978.0627"
+    src: figures/HKU.C.1978.0627.png
+    caption: "Pair of *ko-akae* plates. China, Ming dynasty (Tianqi period, 1621–1627)"
+    credit: ""
+  - id: "HKU.C.1976.0623"
+    src: figures/HKU.C.1976.0623.png
+    caption: "Plate. Jingdezhen, China, Qing dynasty (Kangxi period, 1662–1722)"
+    credit: ""
+  - id: "HKU.C.1997.1288ab"
+    src: figures/HKU.C.1997.1288ab.png
+    caption: "Pair of custard cups. Jingdezhen, China, Qing dynasty (1644–1911), ca. 1790s"
+    credit: ""
+
+  - id: "porcelain_vases"
+    src: figures/porcelain_vases.png
+    caption: "Designs for two porcelain vases. France, ca. 1770–1785 | "
+    credit: "[© The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/344028)"
+
+  - id: "V&A_C.195_1927"
+    src: figures/V&A_C.195_1927.png
+    caption: "Sweetmeat dish, Doccia, Italy, ca. 1780 | "
+    credit: "© [The Victoria and Albert Museum](http://collections.vam.ac.uk/item/O334309/sweetmeat-dish-doccia-porcelain-factory/)"
+  - id: "ACM_2007_55829"
+    src: figures/ACM_2007_55829.png
+    caption: "Plate with a coat of arms, Genoa, Italy, ca. 1710s"
+    credit: " | Asian Civilisations Museum, Singapore"
+
+  - id: "ACM_2007_55840"
+    src: figures/ACM_2007_55840.png
+    caption: "Plate. Delft, the Netherlands, ca. 1710"
+    credit: " | Asian Civilisations Museum, Singapore"
+  - id: "ACM_2007_55802"
+    src: figures/ACM_2007_55802.png
+    caption: "Bowl. Worcester, England, 1770s"
+    credit: " | Asian Civilisations Museum, Singapore"
+  - id: "HKMM_2013_0040_0001"
+    src: figures/HKMM_2013_0040_0001.png
+    caption: "Commemorative plate. Spode, England, ca. 1822"
+    credit: " | Hong Kong Maritime Museum"
+
+  - id: "marks_1"
+    src: figures/marks_1.png
+    caption: "Reverse detail of a blue-and-white dish with the reign marks of the Daoguang emperor (1821–1850)."
+    credit: ""
+  - id: "marks_2"
+    src: figures/marks_2.png
+    caption: "Reverse detail of a bowl in *doucai* enamels with a decorative mark"
+    credit: ""
