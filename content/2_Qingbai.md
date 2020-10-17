@@ -12,7 +12,8 @@ Similar in colour to valuable jade, they were among the most highly regarded cer
 
 Greenwares were never sent to Europe in significant numbers, and the rare examples that did arrive were typically diplomatic gifts from rulers in the Islamic world. This absence was the result of changing fashions in China and Europe’s relatively late entry into the trade, with blue-and-white porcelain overtaking monochrome ceramics in popularity by the fourteenth century.
 &nbsp;  
-&nbsp;  
+&nbsp;
+
 ## Exhibition Highlights
 
 {{< q-figure-group grid="4" id=" HKU.C.2009.1810, HKU.C.1996.1076, HKU.C.1964.0552, ACM_2000_01239" >}}

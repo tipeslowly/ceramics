@@ -1,19 +1,119 @@
 object_display_order:
-  - artist
-  - year
+  - object title
+  - origin
+  - date
+  - material
   - dimensions
-  - medium
-  - location
+  - collection
+  - accession no.
+
 object_list:
   - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/125690/
+    object title: Pair of mounted jars
+    origin: Jingdezhen, China and France
+    date: Qing dynasty (Qianlong period, 1736–1795); mounts added in France, 18th or 19th century
+    material: Porcelain with gilt-bronze mounts
+    dimensions: 45 x 28 cm
+    collection: Asian Civilisations Museum
+    accession no.: 2014-00709
+    figure:
+      - id: "ACM_2014_00709"
+
+  - id: 2
+    object title: Bowl
+    origin: China
+    date: Southern Song dynasty, 1127–1279
+    material: Porcelain and copper
+    dimensions: diameter 20.5 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.2009.1810
+    figure:
+      - id: "HKU.C.2009.1810"
+
+  - id: 3
+    object title: Funerary jar
+    origin: Longquan, China
+    date: Southern Song dynasty, 1127–1279
+    material: Stoneware
+    dimensions: height 23 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1996.1076
+    figure:
+      - id: "HKU.C.1996.1076"
+
+  - id: 4
+    object title: Ewer
+    origin: Korea
+    date: Goryeo dynasty, 918–1392
+    material: Stoneware
+    dimensions: height 9 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1964.0552
     figure:
       - id: "mother"
-      - id: "mother-b"
-      - id: "mother-c"
+
+  - id: 5
+    object title: Covered jar
+    origin: Northern Vietnam
+    date: Tran dynasty, 1225–1400, 14th century
+    material: Stoneware
+    dimensions: height 12.8 cm
+    collection: Asian Civilisations Museum
+    accession no.: 2000-01239
+    figure:
+      - id: "mother"
+
+  - id: 6
+    object title: Water pot
+    origin: Gongyi, China
+    date: Tang dynasty, 619–907, probably 9th century
+    material: Stoneware
+    dimensions: height 7.5 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1953.0028
+    figure:
+      - id: "mother"
+
+  - id: 7
+    object title: Dish
+    origin: Gongyi, China
+    date: Tang dynasty, 619–907, ca. 830s
+    material: Stoneware
+    dimensions: diameter 23 cm
+    collection: Asian Civilisations Museum
+    accession no.: 2011-00612
+    figure:
+      - id: "mother"
+
+  - id: 8
+    object title: Bottle
+    origin: China
+    date: Yuan dynasty, 1271–1368, 14th century
+    material: Porcelain
+    dimensions: height 25.5 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1978.0632
+    figure:
+      - id: "mother"
+
+  - id: 9
+    object title: Plate (*Kraak*)
+    origin: Jingdezhen, China
+    date: Ming dynasty, Chongzhen period, 1628–1644)
+    material: Porcelain
+    dimensions: diameter 23 cm
+    collection: Hong Kong Maritime Museum
+    accession no.: HKMM2014.0010.0001
+    figure:
+      - id: "mother"
+
+  - id: 10
+    object title: Bowl
+    origin: Jingdezhen, China
+    date: Ming dynasty, 1368–1644, late 15th or early 16th century
+    material: Porcelain
+    dimensions: diameter 14.8 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1978.0659
+    figure:
+      - id: "mother"
