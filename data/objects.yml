@@ -117,3 +117,25 @@ object_list:
     accession no.: HKU.C.1978.0659
     figure:
       - id: "HKU.C.1978.0659"
+
+  - id: 11
+    object title: Guanyin figure
+    origin: Dehua, China
+    date: Qing dynasty, Kangxi period, 1662–1722
+    material: Porcelain
+    dimensions: height 23.5 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1953.0014
+    figure:
+      - id: "HKU.C.1953.0014"
+
+  - id: 12
+    object title: Brush washer
+    origin: Dehua, China
+    date: Qing dynasty, Kangxi period, 1662–1722
+    material: Porcelain
+    dimensions: height 3.2 x 11.2 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1964.0275
+    figure:
+      - id: "HKU.C.1964.0275"
