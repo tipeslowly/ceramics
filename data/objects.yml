@@ -50,7 +50,7 @@ object_list:
     collection: University Museum and Art Gallery, HKU
     accession no.: HKU.C.1964.0552
     figure:
-      - id: "mother"
+      - id: "HKU.C.1964.0552"
 
   - id: 5
     object title: Covered jar
@@ -61,7 +61,7 @@ object_list:
     collection: Asian Civilisations Museum
     accession no.: 2000-01239
     figure:
-      - id: "mother"
+      - id: "ACM_2000_01239"
 
   - id: 6
     object title: Water pot
@@ -72,7 +72,7 @@ object_list:
     collection: University Museum and Art Gallery, HKU
     accession no.: HKU.C.1953.0028
     figure:
-      - id: "mother"
+      - id: "HKU.C.1953.0028"
 
   - id: 7
     object title: Dish
@@ -83,7 +83,7 @@ object_list:
     collection: Asian Civilisations Museum
     accession no.: 2011-00612
     figure:
-      - id: "mother"
+      - id: "ACM_2011_00612"
 
   - id: 8
     object title: Bottle
@@ -94,7 +94,7 @@ object_list:
     collection: University Museum and Art Gallery, HKU
     accession no.: HKU.C.1978.0632
     figure:
-      - id: "mother"
+      - id: "HKU.C.1978.0632"
 
   - id: 9
     object title: Plate (*Kraak*)
@@ -105,7 +105,7 @@ object_list:
     collection: Hong Kong Maritime Museum
     accession no.: HKMM2014.0010.0001
     figure:
-      - id: "mother"
+      - id: "HKMM_2014_0010_0001"
 
   - id: 10
     object title: Bowl
@@ -116,4 +116,4 @@ object_list:
     collection: University Museum and Art Gallery, HKU
     accession no.: HKU.C.1978.0659
     figure:
-      - id: "mother"
+      - id: "HKU.C.1978.0659"
