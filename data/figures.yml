@@ -3,125 +3,142 @@ figure_list:
     src: figures/cover.png
     caption: ""
     credit: ""
+
   - id: "ACM_2014_00709"
     src: figures/ACM_2014_00709.png
-    caption: "Pair of mounted jars. Jingdezhen, China (Qianlong period, 1736–1795) and France, 18th or 19th century | Asian Civilisations Museum"
+    caption: "Pair of mounted jars | Jingdezhen, China (Qianlong period, 1736–1795) and France, 18th or 19th century | Asian Civilisations Museum"
     credit: ""
+
   - id: "HKU.C.2009.1810"
     src: figures/HKU.C.2009.1810.png
-    caption: "Bowl. China, Southern Song dynasty (1127–1279)"
+    caption: "Bowl | China, Southern Song dynasty (1127–1279)"
     credit: ""
+
   - id: "HKU.C.1996.1076"
     src: figures/HKU.C.1996.1076.png
-    caption: "Funerary jar. Longquan, China, Southern Song dynasty (1127–1279)"
+    caption: "Funerary jar | Longquan, China, Southern Song dynasty (1127–1279)"
     credit: ""
+
   - id: "HKU.C.1964.0552"
     src: figures/HKU.C.1964.0552.png
-    caption: "Ewer. Korea, Goryeo dynasty (918–1392)"
+    caption: "Ewer | Korea, Goryeo dynasty (918–1392)"
     credit: ""
+
   - id: "ACM_2000_01239"
     src: figures/ACM_2000_01239.png
-    caption: "Covered jar. Northern Vietnam, 14th century | Asian Civilisations Museum"
+    caption: "Covered jar | Northern Vietnam, 14th century | Asian Civilisations Museum"
     credit: ""
+
   - id: "HKU.C.1953.0028"
     src: figures/HKU.C.1953.0028.png
-    caption: "Water pot. Gongyi, China, Tang dynasty (618–907), probably 9th century"
+    caption: "Water pot | Gongyi, China, Tang dynasty (618–907), probably 9th century"
     credit: ""
 
   - id: "ACM_2011_00612"
     src: figures/ACM_2011_00612.png
-    caption: "Dish. Gongyi, China, Tang dynasty (618–907), ca. 830s"
+    caption: "Dish | Gongyi, China, Tang dynasty (618–907), ca. 830s"
     credit: " | Asian Civilisations Museum"
 
   - id: "HKU.C.1978.0632"
     src: figures/HKU.C.1978.0632.png
-    caption: "Bottle. China, Yuan dynasty (1271–1368), 14th century"
+    caption: "Bottle | China, Yuan dynasty (1271–1368), 14th century"
     credit: ""
 
   - id: "HKMM_2014_0010_0001"
     src: figures/HKMM_2014_0010_0001.png
-    caption: "*Kraak* plate. Jingdezhen, China, Ming dynasty (Chongzhen period, 1628–1644)"
+    caption: "*Kraak* plate | Jingdezhen, China, Ming dynasty (Chongzhen period, 1628–1644)"
     credit: " | Hong Kong Maritime Museum"
+
   - id: "HKU.C.1978.0659"
     src: figures/HKU.C.1978.0659.png
-    caption: "Bowl. Jingdezhen, China, Ming dynasty (1368–1644), late 15th or early 16th century"
+    caption: "Bowl | Jingdezhen, China, Ming dynasty (1368–1644), late 15th or early 16th century"
     credit: ""
 
   - id: "HKU.C.1953.0014"
     src: figures/HKU.C.1953.0014.png
-    caption: "Guanyin figure. Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
+    caption: "Guanyin figure | Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
     credit: ""
+
   - id: "HKU.C.1964.0275"
     src: figures/HKU.C.1964.0275.png
-    caption: "Brush washer. Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
+    caption: "Brush washer | Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
     credit: ""
 
   - id: "ACM_2010_00362"
     src: figures/ACM_2010_00362.png
-    caption: "Figural pair. Dehua, China, Qing dynasty (1644–1911), 18th century"
+    caption: "Figural pair | Dehua, China, Qing dynasty (1644–1911), 18th century"
     credit: " | Asian Civilisations Museum"
+
   - id: "ACM_2011_02085"
     src: figures/ACM_2011_02085.png
-    caption: "Virgin and Child. Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
+    caption: "Virgin and Child | Dehua, China, Qing dynasty (Kangxi period, 1662–1722)"
     credit: " | Asian Civilisations Museum"
+
   - id: "ACM_2007_55790"
     src: figures/ACM_2007_55790.png
-    caption: "Tea bowl. Meissen, Germany, ca. 1735"
+    caption: "Tea bowl | Meissen, Germany, ca. 1735"
     credit: " | Asian Civilisations Museum"
 
   - id: "HKU.C.1964.0274"
     src: figures/HKU.C.1964.0274.png
-    caption: "Bowl. Jingdezhen, China, Ming dynasty (Wanli period, 1573–1620)"
+    caption: "Bowl | Jingdezhen, China, Ming dynasty (Wanli period, 1573–1620)"
     credit: ""
+
   - id: "HKU.C.1972.0432"
     src: figures/HKU.C.1972.0432.png
-    caption: "Bowl. China, Qing dynasty (1644–1911), late 17th or early 18th century"
+    caption: "Bowl | China, Qing dynasty (1644–1911), late 17th or early 18th century"
     credit: ""
 
   - id: "HKU.C.1978.0627"
     src: figures/HKU.C.1978.0627.png
-    caption: "Pair of *ko-akae* plates. China, Ming dynasty (Tianqi period, 1621–1627)"
+    caption: "Pair of *ko-akae* plates | China, Ming dynasty (Tianqi period, 1621–1627)"
     credit: ""
+
   - id: "HKU.C.1976.0623"
     src: figures/HKU.C.1976.0623.png
-    caption: "Plate. Jingdezhen, China, Qing dynasty (Kangxi period, 1662–1722)"
+    caption: "Plate | Jingdezhen, China, Qing dynasty (Kangxi period, 1662–1722)"
     credit: ""
+
   - id: "HKU.C.1997.1288ab"
     src: figures/HKU.C.1997.1288ab.png
-    caption: "Pair of custard cups. Jingdezhen, China, Qing dynasty (1644–1911), ca. 1790s"
+    caption: "Pair of custard cups | Jingdezhen, China, Qing dynasty (1644–1911), ca. 1790s"
     credit: ""
 
   - id: "porcelain_vases"
     src: figures/porcelain_vases.png
-    caption: "Designs for two porcelain vases. France, ca. 1770–1785 | "
+    caption: "Designs for two porcelain vases | France, ca. 1770–1785 | "
     credit: "[© The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/344028)"
 
   - id: "V&A_C.195_1927"
     src: figures/V&A_C.195_1927.png
-    caption: "Sweetmeat dish, Doccia, Italy, ca. 1780 | "
+    caption: "Sweetmeat dish | Doccia, Italy, ca. 1780 | "
     credit: "© [The Victoria and Albert Museum](http://collections.vam.ac.uk/item/O334309/sweetmeat-dish-doccia-porcelain-factory/)"
+
   - id: "ACM_2007_55829"
     src: figures/ACM_2007_55829.png
-    caption: "Plate with a coat of arms, Genoa, Italy, ca. 1710s"
+    caption: "Plate with a coat of arms | Genoa, Italy, ca. 1710s"
     credit: " | Asian Civilisations Museum"
 
   - id: "ACM_2007_55840"
     src: figures/ACM_2007_55840.png
-    caption: "Plate. Delft, the Netherlands, ca. 1710"
+    caption: "Plate. Delft | the Netherlands, ca. 1710"
     credit: " | Asian Civilisations Museum"
+
   - id: "ACM_2007_55802"
     src: figures/ACM_2007_55802.png
-    caption: "Bowl. Worcester, England, 1770s"
+    caption: "Bowl | Worcester, England, 1770s"
     credit: " | Asian Civilisations Museum"
+
   - id: "HKMM_2013_0040_0001"
     src: figures/HKMM_2013_0040_0001.png
-    caption: "Commemorative plate. Spode, England, ca. 1822"
+    caption: "Commemorative plate | Spode, England, ca. 1822"
     credit: " | Hong Kong Maritime Museum"
 
   - id: "marks_1"
     src: figures/marks_1.png
-    caption: "Reverse detail of a blue-and-white dish with the reign marks of the Daoguang emperor (1821–1850)."
+    caption: "Reverse detail of a blue-and-white dish with the reign marks of the Daoguang emperor (1821–1850)"
     credit: ""
+    
   - id: "marks_2"
     src: figures/marks_2.png
     caption: "Reverse detail of a bowl in *doucai* enamels with a decorative mark"

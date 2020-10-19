@@ -3,7 +3,7 @@ title: Blanc de Chine
 subtitle:
 weight: 40
 type: essay
-image: 
+image:
 ---
 
 In the sixteenth and seventeenth centuries, porcelain made in the kilns of Dehua in Fujian province, southern China began to attract the attention of European merchants. Many objects were brought back to Europe where this type of white Dehua porcelain became known as *blanc de Chine* (French for ‘white of China’).

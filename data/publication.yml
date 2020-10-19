@@ -123,16 +123,17 @@ subject:
     name: ART / Asian / Chinese
     identifer: ART019010
   - type: getty
-    name: Dorothea Lange
-    identifier: "https://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: textiles
+    name: Chinese ceramics styles
+    identifier: "https://vocab.getty.edu/page/aat/3000018504"
   - type: getty
-    name: black-and-white photography
-    identifier: "https://vocab.getty.edu/aat/300162056"
+    name: Chinese export porcelain
+    identifier: "https://vocab.getty.edu/page/aat/300387409"
   - type: getty
-    name: despression (economic concept)
-    identifier: "https://vocab.getty.edu/aat/300410245"
+    name: celadon (glaze)
+    identifier: "https://vocab.getty.edu/page/aat/3000015100"
+  - type: getty
+    name: stoneware (pottery)
+    identifier: "https://vocab.getty.edu/page/aat/3000010672"
 
 # ------------------------------------------------------------------------------
 # Revision History

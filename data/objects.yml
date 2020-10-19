@@ -11,11 +11,12 @@ object_list:
   - id: 1
     object title: Pair of mounted jars
     origin: Jingdezhen, China and France
-    date: Qing dynasty (Qianlong period, 1736–1795); mounts added in France, 18th or 19th century
+    date: Qing dynasty, Qianlong period, 1736–1795; mounts added in France, 18th or 19th century
     material: Porcelain with gilt-bronze mounts
     dimensions: 45 x 28 cm
     collection: Asian Civilisations Museum
     accession no.: 2014-00709
+    link: https://www.roots.gov.sg/learn/collections/listing/1140927
     figure:
       - id: "ACM_2014_00709"
 
@@ -60,6 +61,7 @@ object_list:
     dimensions: height 12.8 cm
     collection: Asian Civilisations Museum
     accession no.: 2000-01239
+    link: https://www.roots.gov.sg/learn/collections/listing/1039626
     figure:
       - id: "ACM_2000_01239"
 
@@ -82,6 +84,7 @@ object_list:
     dimensions: diameter 23 cm
     collection: Asian Civilisations Museum
     accession no.: 2011-00612
+    link: https://www.roots.gov.sg/learn/collections/listing/1240575
     figure:
       - id: "ACM_2011_00612"
 
@@ -99,7 +102,7 @@ object_list:
   - id: 9
     object title: Plate (*Kraak*)
     origin: Jingdezhen, China
-    date: Ming dynasty, Chongzhen period, 1628–1644)
+    date: Ming dynasty, Chongzhen period, 1628–1644
     material: Porcelain
     dimensions: diameter 23 cm
     collection: Hong Kong Maritime Museum
@@ -139,3 +142,153 @@ object_list:
     accession no.: HKU.C.1964.0275
     figure:
       - id: "HKU.C.1964.0275"
+
+  - id: 13
+    object title: Figural pair
+    origin: Dehua, China
+    date: Qing dynasty, 1644–1911, 18th century
+    material: Porcelain
+    dimensions: height 11 cm
+    collection: Asian Civisations Museum
+    accession no.: 2010_00362
+    link: https://www.roots.gov.sg/learn/collections/listing/1004743
+    figure:
+      - id: "ACM_2010_00362"
+
+  - id: 14
+    object title: Virgin and child
+    origin: Dehua, China
+    date: Qing dynasty, Kangxi period, 1644–1911
+    material: Porcelain
+    dimensions: height 39 cm
+    collection: Asian Civisations Museum, Gift of Agnes Tan Kim Lwi in memory of Tun Tan Cheng Lock
+    accession no.: 2011_02085
+    link: https://www.roots.gov.sg/learn/collections/listing/1257168
+    figure:
+      - id: "ACM_2011_02085"
+
+  - id: 15
+    object title: Tea bowl
+    origin: Meissen, Germany
+    date: ca. 1735
+    material: Hard-paste porcelain
+    dimensions: diameter 7.1 cm
+    collection: Asian Civisations Museum, Gift of Mr and Mrs Toshio Egawa
+    accession no.: 2007_55790
+    link: https://www.roots.gov.sg/learn/collections/listing/1220457
+    figure:
+      - id: "ACM_2007_55790"
+
+  - id: 16
+    object title: Bowl
+    origin: Jingdezhen, China
+    date: Ming dynasty, Wanli period, 1573–1620
+    material: Porcelain
+    dimensions: diameter 15.5 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1964.0274
+    figure:
+      - id: "HKU.C.1964.0274"
+
+  - id: 17
+    object title: Bowl
+    origin: China
+    date: Qing dynasty, 1644–1911, late 17th or early 18th century
+    material: Porcelain
+    dimensions: 8.6 x 19 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1972.0432
+    figure:
+      - id: "HKU.C.1972.0432"
+
+  - id: 18
+    object title: Pair of *ko-akae* plates
+    origin: China
+    date: Ming dynasty, Tianqi period, 1621–1627
+    material: Porcelain
+    dimensions: width 18.5 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1978.0627
+    figure:
+      - id: "HKU.C.1978.0627"
+
+  - id: 19
+    object title: Plate
+    origin: Jingdezhen, China
+    date: Qing dynasty, Kangxi period, 1644–1911
+    material: Porcelain with gilding
+    dimensions: diameter 27 cm
+    collection: University Museum and Art Gallery, HKU
+    accession no.: HKU.C.1976.0623
+    figure:
+      - id: "HKU.C.1976.0623"
+
+  - id: 20
+    object title: Pair of custard cups
+    origin: Jingdezhen, China
+    date: Qing dynasty, 1644–1911, ca. 1790s
+    material: Porcelain with gilding
+    dimensions: height 9 and 8.7 cm
+    collection: University Museum and Art Gallery, HKU, Donated in memory of Miss Beryl Robina Wright
+    accession no.: HKU.C.1997.1288ab
+    figure:
+      - id: "HKU.C.1997.1288ab"
+
+  - id: 21
+    object title: Sweetmeat dish
+    origin: Doccia, Italy
+    date: ca. 1780
+    material: Tin-glazed hard-paste porcelain
+    dimensions: length 8.9 cm
+    collection: Victoria and Albert Museum, Given by Signora Ada Cardinale
+    accession no.: V&A_C.195_1927
+    link: http://collections.vam.ac.uk/item/O334309/sweetmeat-dish-doccia-porcelain-factory/
+    figure:
+      - id: "V&A_C.195_1927"
+
+  - id: 22
+    object title: Plate with coat of arms
+    origin: Genoa, Italy
+    date: ca. 1710s
+    material: Tin-glazed earthenware
+    dimensions: diameter 25.6 cm
+    collection: Asian Civilisations Museum, Gift of Mr and Mrs Toshio Egawa
+    accession no.: 2007-55829
+    link: https://www.roots.gov.sg/learn/collections/listing/1217939
+    figure:
+      - id: "ACM_2007_55829"
+
+  - id: 23
+    object title: Plate
+    origin: Delft, the Netherlands
+    date: ca. 1710
+    material: Tin-glazed earthenware
+    dimensions: diameter 35.7 cm
+    collection: Asian Civilisations Museum, Gift of Mr and Mrs Toshio Egawa
+    accession no.: 2007-55840
+    link: https://www.roots.gov.sg/learn/collections/listing/1224943
+    figure:
+      - id: "ACM_2007_55840"
+
+  - id: 24
+    object title: Bowl
+    origin: Worcester, England
+    date: 1770s
+    material: Soft-paste porcelain
+    dimensions: diameter 14.7 cm
+    collection: Asian Civilisations Museum, Gift of Mr and Mrs Toshio Egawa
+    accession no.: 2007-55802
+    link: https://www.roots.gov.sg/learn/collections/listing/1222447
+    figure:
+      - id: "ACM_2007_55802"
+
+  - id: 25
+    object title: Commemorative plate
+    origin: Spode, England
+    date: ca. 1822
+    material: Stone china
+    dimensions: diameter 25.7 cm
+    collection: Hong Kong Maritime Museum
+    accession no.: HKMM2013.0040.0001
+    figure:
+      - id: "HKMM_2013_0040_0001"
