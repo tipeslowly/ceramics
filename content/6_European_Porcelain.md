@@ -6,7 +6,7 @@ type: essay
 image:
 ---
 
-After they established direct trade with China, Portuguese traders returned home with samples of kaolin, which they discovered was essential in the production of porcelain. The Portuguese and other European countries remained ignorant of the techniques involved in the production of porcelain until 1708, when the first European hard-paste porcelain (made from a compound of the feldspathic rock petuntse and kaolin clay fired at around 1400°C) was made in Meissen, Germany by Johann Friedrich Böttger (1682–1719). Böttger’s factory was soon producing large amounts of hard-paste porcelain, and in the 1720s it developed a new and extensive range of enamel colours that was used to depict fantastic visions of an imagined Far East inspired by Chinese art.
+After they established direct trade with China, Portuguese traders returned home with samples of kaolin, which they discovered was essential in the production of porcelain. The Portuguese and other European countries remained ignorant of the techniques involved in the production of porcelain until 1708, when the first European hard-paste porcelain (made from a compound of the feldspathic rock petuntse and kaolin clay fired at around 1400°C) was made in Meissen, Germany, by Johann Friedrich Böttger (1682–1719). Böttger’s factory was soon producing large amounts of hard-paste porcelain, and in the 1720s it developed a new and extensive range of enamel colours that was used to depict fantastic visions of an imagined Far East inspired by Chinese art.
 
 {{< q-figure id="porcelain_vases" >}}
 

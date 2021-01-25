@@ -1,5 +1,5 @@
 ---
-title: Objectifying China
+title: Catalogue
 type: contents
 class: grid
 weight: 80
