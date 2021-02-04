@@ -12,7 +12,7 @@ The earliest surviving Chinese blue-and-white ceramics were made in the Tang per
 
 {{< q-figure-group grid="2" id="HKU.C.1953.0028, ACM_2011_00612" >}}
 
-In the Ming (1368–1644) and Qing dynasties (1644–1911), blue-and-white porcelain dominated the export trade. Millions of ceramics were sent all over the world from important ports such as Canton (Guangzhou) and Quanzhou. Tailored to certain markets, they remained the most popular export form until the end of the seventeenth century, when growing European interest in wares decorated with coats of arms encouraged the use of colourful enamels that allowed for more accurate depictions of heraldry.
+In the Ming (1368–1644) and Qing dynasties (1644–1911), blue-and-white porcelain dominated the export trade. Millions of ceramics were sent around the world from important ports such as Canton (Guangzhou) and Quanzhou. Tailored to certain markets, they remained the most popular export form until the end of the seventeenth century, when growing European interest in wares decorated with coats of arms encouraged the use of colourful enamels that allowed for more accurate depictions of heraldry.
 
 {{< q-figure id="kiln_sites_map" >}}
 

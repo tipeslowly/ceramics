@@ -10,11 +10,11 @@ Porcelain was first made in China in a primitive form during the Tang dynasty (6
 
 In Chinese, the term *ci* (translated as porcelain in English) refers to all ceramics fired at high temperatures, including porcelain and stoneware. In the West, the term porcelain refers specifically to white ceramics made with a special type of clay called kaolin, which is fired to about 1300°C, resulting in a translucent, glassy material that makes a ringing sound when struck.
 
-Delicate, nearly transparent and resistant to extreme heat and moisture, this material was technologically superior to thicker, low-fired European ceramics made before the eighteenth century. Objects created from it were regarded as being objects of great rarity and luxury. Their construction was so poorly understood at the time that European collectors often had them mounted in gilt silver or gold, in a manner similar to (*naturalia*) (‘natural wonders’) such as ostrich eggs and large shells. This emphasised their preciousness and transformed them into entirely different objects.
+Delicate, nearly transparent and resistant to extreme heat and moisture, this material was technologically superior to thicker, low-fired European ceramics made prior to the eighteenth century. Objects created from it were regarded as being rare and luxurious. Their construction was so poorly understood at the time that European collectors often had them mounted in gilt silver or gold, in a manner similar to *naturalia* (‘natural wonders’) such as ostrich eggs and large shells. This emphasised their preciousness and transformed them into entirely different objects.
 
 {{< q-figure id="ACM_2014_00709" >}}
 
-Vessels made of this porcelain were sent from China to other parts of the world along the overland and maritime silk roads in exchange for various goods like silk, spices, tea, ivory and metalwork. After centuries of intra-Asian exchange, Europeans entered this trade in earnest in the early sixteenth century, after Portugal established direct sea routes to the Far East and began commercial trade with Asia via the Portuguese-controlled ports of Macau, Malacca and Dejima.
+Vessels made of this porcelain were sent from China to other parts of the world along the overland and maritime silk roads in exchange for various goods like silk, spices, tea, ivory and metalwork. Following centuries of intra-Asian exchange, Europeans entered this trade in earnest in the early sixteenth century, after Portugal established direct sea routes to the Far East and began commercial trade with Asia via the Portuguese-controlled ports of Macau, Malacca and Dejima.
 
 {{< q-figure id="trade_map" >}}
 
