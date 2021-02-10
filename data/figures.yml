@@ -14,6 +14,11 @@ figure_list:
     caption: "Bowl | China, Southern Song dynasty (1127–1279)"
     credit: ""
 
+  - id: "trade_map"
+    src: figures/trade_map.png
+    caption: ""
+    credit: ""
+
   - id: "HKU.C.1996.1076"
     src: figures/HKU.C.1996.1076.png
     caption: "Funerary jar | Longquan, China, Southern Song dynasty (1127–1279)"
